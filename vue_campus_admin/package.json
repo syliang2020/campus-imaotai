@@ -2,7 +2,7 @@
   "name": "oddfar",
   "version": "1.1.0",
   "description": "campus-imaotai",
-  "author": "oddfar",
+  "author": "",
   "license": "MIT",
   "scripts": {
     "dev": "set NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service serve",
